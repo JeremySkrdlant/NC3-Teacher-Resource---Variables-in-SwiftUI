@@ -14,4 +14,5 @@ This repository has a completed Xcode Project, a YouTube video link of instructi
 
 ## Instructor Cheat Sheet
 Click the three dots in the upper right to download.
+
 [Cheat Sheet Download](https://github.com/JeremySkrdlant/NC3-Teacher-Resource---Variables-in-SwiftUI/blob/c200208d18ce69d93a758eb2cdfa0f5722b2dc0d/NC3%20Variables%20in%20SwiftUI%20Cheat%20Sheet.pages)
